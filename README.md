@@ -1,3 +1,7 @@
+# Proyecto del Curso Manejo del Estado con Pinia
+
+## Captura de chat
+![Captura de vue-pinia](.readme-static/captura-pinia.png)
 # chat-app
 
 This template should help get you started developing with Vue 3 in Vite.
